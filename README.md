@@ -3,3 +3,5 @@ This source code was originally written for an assignment. It uses OpenGL and C+
 **Controls:** Use the up/down arrow to move towards or away from the origin. Click and drag with a mouse to rotate the rendered objects. There are 2 scalar fields: fWave and fCone. To change which renders in the program, go to line 515 and change the first argument of the method. You can also change the isovalue and stepsize there.
 
 **Acknowledgements:** TriTable.hpp was supplied by my class. I also really wanted to name this repository what-the-phong, but sometimes, you must sacrifice bad jokes for berevity.
+
+![fWave render](https://raw.githubusercontent.com/blockheron/marching-cubes-phong/refs/heads/main/fWave.png) ![fCone render](https://raw.githubusercontent.com/blockheron/marching-cubes-phong/refs/heads/main/fCone.png)
